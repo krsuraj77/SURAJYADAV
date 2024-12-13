@@ -334,7 +334,7 @@ transition: .5s ease;
         html{
             font-size: 55%;
         }
-    
+    }
     @media(max-width:991px){
         .header{
             padding: 2rem 3%;
