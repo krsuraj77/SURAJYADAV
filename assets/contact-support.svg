@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+    <style>
+        .st0{fill:#4285f4;}
+        .st1{fill:#64ffda;}
+        .st2{fill:#ffffff;}
+    </style>
+    <g>
+        <!-- Add the SVG paths for the customer support illustration -->
+        <!-- This is a simplified version, you should replace it with your actual illustration -->
+        <path class="st0" d="M250 100c-82.8 0-150 67.2-150 150v100c0 27.6 22.4 50 50 50h200c27.6 0 50-22.4 50-50V250c0-82.8-67.2-150-150-150z"/>
+        <path class="st1" d="M175 275c-13.8 0-25-11.2-25-25s11.2-25 25-25 25 11.2 25 25-11.2 25-25 25z"/>
+        <path class="st1" d="M325 275c-13.8 0-25-11.2-25-25s11.2-25 25-25 25 11.2 25 25-11.2 25-25 25z"/>
+        <path class="st2" d="M250 350c-41.4 0-75-33.6-75-75h150c0 41.4-33.6 75-75 75z"/>
+    </g>
+</svg> 
